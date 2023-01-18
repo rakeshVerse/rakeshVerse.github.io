@@ -2,3 +2,5 @@
 ### Projects made while re-learning FrontEnd
 
 [First Project](https://rakeshverse.github.io/Relearning-FrontEnd-from-MDN/firstProject/)
+
+[Second Project](https://rakeshverse.github.io/Relearning-FrontEnd-from-MDN/secondProject/)
