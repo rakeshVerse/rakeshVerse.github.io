@@ -1,4 +1,4 @@
 # Rakesh Verse
 ### Projects made while re-learning FrontEnd
 
-[Link](https://rakeshverse.github.io/learning-g-pages/)
+[First Project](https://rakeshverse.github.io/Relearning-FrontEnd-from-MDN/)
