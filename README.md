@@ -6,3 +6,5 @@
 [Dynamic List](https://rakeshverse.github.io/Relearning-FrontEnd-from-MDN/secondProject/)
 
 [Banner](https://rakeshverse.github.io/icodethis-ch1/)
+
+[Guess the Number](https://rakeshverse.github.io/jsCourse/DOM/guess_number/guess_number.html) 
