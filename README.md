@@ -7,4 +7,5 @@
 
 [Banner](https://rakeshverse.github.io/icodethis-ch1/)
 
-[Guess the Number](https://rakeshverse.github.io/DOM/guess_number/index.html)
+[Guess the Number](https://rakeshverse.github.io/jsCourse/DOM/guess_number/)
+
