@@ -9,3 +9,5 @@
 
 [Guess the Number](https://rakeshverse.github.io/jsCourse/DOM/guess_number/)
 
+[Play Dice](https://rakeshverse.github.io/jsCourse/DOM/dice/)
+
