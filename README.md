@@ -7,7 +7,9 @@
 
 [Banner](https://rakeshverse.github.io/icodethis-ch1/)
 
-[Guess the Number](https://rakeshverse.github.io/jsCourse/DOM/guess_number/)
+[Guess the Number](https://rakeshverse.github.io/problem-solving/js_course_projects/guess-my-number/)
 
-[Play Dice](https://rakeshverse.github.io/jsCourse/DOM/dice/)
+[Roll Dice](https://rakeshverse.github.io/problem-solving/js_course_projects/dice-roll/)
+
+[finSync Finance App](https://rakeshverse.github.io/problem-solving/js_course_projects/finSync/)
 
