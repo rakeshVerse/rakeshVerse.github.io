@@ -13,3 +13,5 @@
 
 [finSync Finance App](https://rakeshverse.github.io/problem-solving/js_course_projects/finSync/)
 
+[Netflix UI](https://rakeshverse.github.io/problem-solving/js_course_projects/netFlix/)
+
